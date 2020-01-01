@@ -33,6 +33,11 @@ public class PlayerHealth : MonoBehaviour {
 	float smoothColor=5f;
 
 
+	// Dilog box animator
+
+	public Animator dilogBox;
+
+
 
 	float currentHealth;
 
@@ -105,6 +110,7 @@ public class PlayerHealth : MonoBehaviour {
 
 		Animator dead = gameOverScreen.GetComponent<Animator> ();
 
+		dilogBox.SetBool ("isOpen",false);
 		dead.SetTrigger ("GameOver");
 
 		TheGameManager.restartTheGame ();

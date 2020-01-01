@@ -29,3 +29,36 @@ C:\Users\Matin\Documents\SimplePlatform\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\Matin\Documents\SimplePlatform\Temp\bin\Debug\UnityEngine.VR.xml
 C:\Users\Matin\Documents\SimplePlatform\obj\Debug\Assembly-CSharp.dll
 C:\Users\Matin\Documents\SimplePlatform\obj\Debug\Assembly-CSharp.pdb
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\nunit.framework.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\TextMeshPro-5.6-Editor.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\TextMeshPro-5.6-Runtime.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEditor.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEditor.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\nunit.framework.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\obj\Debug\Assembly-CSharp.dll
+C:\Users\CSE CARNIVAL 2017\Desktop\SimplePlatform\obj\Debug\Assembly-CSharp.pdb

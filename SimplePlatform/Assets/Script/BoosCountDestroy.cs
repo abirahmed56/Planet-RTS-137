@@ -8,6 +8,7 @@ public class BoosCountDestroy : MonoBehaviour {
 	Animator Door;
 	public GameObject WinStar;
 	public Transform StarPoint;
+	public int bossValue;
 
 	int counter=0;
 
@@ -21,7 +22,7 @@ public class BoosCountDestroy : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () {
 
-		if (counter == 0) {
+		if (counter == bossValue) {
 			Door.SetBool ("DoorOn", true);
 
 		}
@@ -35,11 +36,11 @@ public class BoosCountDestroy : MonoBehaviour {
 		Debug.Log (counter);
 	}
 
-	void OnTriggerEnter2D(Collider2D other)
-	{
-		if(other.tag=="Player")
-		{
-			Instantiate (WinStar,StarPoint.position,Quaternion.identity);
-		}
-	}
+//	void OnTriggerEnter2D(Collider2D other)
+//	{
+//		if(other.tag=="Player")
+//		{
+//			Instantiate (WinStar,StarPoint.position,Quaternion.identity);
+//		}
+//	}
 }
